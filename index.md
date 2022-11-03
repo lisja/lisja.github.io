@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am Liisa Jalkanen and I study Computer Science and Linguistics at the University of Helsinki. I am a Crazy Cat Lady with 4 rescue cats and you can see the pictures of my cats below with some basic info of them. 
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am Liisa Jalkanen and I study Computer Science and Linguistics at the University of Helsinki. I am a Crazy Cat Lady with 4 rescue cats and you can see the pictures of my cats below in their own [section](#my-cats) with some basic info of them. 
 
 My hobbies include:
   * Pole dancing
@@ -13,6 +13,8 @@ My hobbies include:
   * Kissing my cats on their small soft foreheads
   * Taking pictures of my cats
   * Talking about my cats
+
+## My cats
 
 ## Find me on
 
