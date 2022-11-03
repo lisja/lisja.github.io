@@ -4,7 +4,9 @@ layout: default
 
 ## Introduction
 
-I am Liisa Jalkanen and I study Computer Science and Linguistics at the University of Helsinki. I am a Crazy Cat Lady with 4 rescue cats and you can see the pictures of my cats below in their own [section](#my-cats) with some basic info of them. 
+I am Liisa Jalkanen and I study Computer Science and Linguistics at the University of Helsinki.
+
+I am a Crazy Cat Lady with 4 rescue cats and you can see the pictures of my cats below in their own [section](#my-cats) with some basic info of them. 
 
 My hobbies include:
   * Pole dancing
@@ -16,13 +18,13 @@ My hobbies include:
 
 ## My cats
 
-<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="Attribute"/>
+<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="20" width="30%" align="middle"/>
 
-<img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="Attribute"/>
+<img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="20" width="30%" align="right"/>
 
-<img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="Attribute"/>
+<img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="20" width="30%" align="right"/>
 
-<img src="assets/images/iggy.jpg" alt="Igor" hspace="Attribute"/>
+<img src="assets/images/iggy.jpg" alt="Igor" hspace="20" width="30%" align="right"/>
 
 ## Find me on
 
@@ -55,4 +57,8 @@ P.s. Please hesitate to contact me.
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+Funny Instagram Pages About Cats and Cat Memes:
+
+[ICanHasCheezburgerz](https://www.instagram.com/icanhascheezburgerz/)
+
+[cattosbeingcattos](https://www.instagram.com/cattosbeingcattos/)
