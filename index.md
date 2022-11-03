@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am Liisa Jalkanen and I study Computer Science and Linguistics at the University of Helsinki. I am a Crazy Cat Lady with 4 cats and you can see the pictures of my cats below. 
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am Liisa Jalkanen and I study Computer Science and Linguistics at the University of Helsinki. I am a Crazy Cat Lady with 4 rescue cats and you can see the pictures of my cats below with some basic info of them. 
 
 My hobbies include:
   * Pole dancing
@@ -16,11 +16,15 @@ My hobbies include:
 
 ## Find me on
 
-[GitHub](https://github.com/lisja/lisja.github.io), [Instagram](https://www.instagram.com/department_of_purrlogy/), [Untappd](https://untappd.com/user/dear_jimmy)
+[GitHub](https://github.com/lisja/lisja.github.io)
+
+[Instagram](https://www.instagram.com/department_of_purrlogy/)
+
+[Untappd](https://untappd.com/user/dear_jimmy)
 
 ## Contact
 
-My email address is this_is_a_fake_address@helsinki.fi. 
+My email address is liisa.jalkanen@helsinki.fi 
 
 P.s. Please hesitate to contact me.
 
@@ -36,6 +40,8 @@ P.s. Please hesitate to contact me.
 
 
 ## Projects
+
+[My GitHub project for the course Command-Line Tools for Linguists 2022](https://github.com/lisja/cmdline-course)
 
 ## Misc. 
 
