@@ -16,6 +16,14 @@ My hobbies include:
 
 ## My cats
 
+![Musta Barbaari](/assets/images/muba.jpg "Musta Barbaari")
+
+![Seksi-Teppo](/assets/images/teppo.jpg "Seksi-Teppo")
+
+![Professori Porkkana](/assets/images/porkkis.jpg "Professori Porkkana")
+
+![Igor](/assets/images/iggy.jpg "Igor")
+
 ## Find me on
 
 [GitHub](https://github.com/lisja/lisja.github.io)
