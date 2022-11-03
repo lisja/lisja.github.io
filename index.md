@@ -18,13 +18,13 @@ My hobbies include:
 
 ## My cats
 
-<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="20" width="30%" align="middle"/>
+<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="middle"/>
 
-<img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="20" width="30%" align="right"/>
+<img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="40" width="60%" align="middle"/>
 
-<img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="20" width="30%" align="right"/>
+<img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="40" width="60%" align="middle"/>
 
-<img src="assets/images/iggy.jpg" alt="Igor" hspace="20" width="30%" align="right"/>
+<img src="assets/images/iggy.jpg" alt="Igor" hspace="40" width="60%" align="middle"/>
 
 ## Find me on
 
