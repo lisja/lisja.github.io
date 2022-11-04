@@ -18,7 +18,14 @@ My hobbies include:
 
 ## My cats
 
-<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="middle"/>
+<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="left"/> ### Musta Barbaari (The Black Barbarian in English)
+
+Nicknames:
+  * Muba
+  * Mubashir
+  * Ninja of the Night
+  * The Bestest Boy in The World
+  * etc.
 
 <img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="40" width="60%" align="middle"/>
 
