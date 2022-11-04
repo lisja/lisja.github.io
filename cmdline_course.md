@@ -4,7 +4,13 @@ layout: default
 
 ## Introduction to the course Command-Line Tools for Linguists 2022
 
-text text text
+![Picture of a Command-line](assets/images/commandlinepic.jpg "Picture of a Command-line")
+
+The course's purpose was to get to know the command-line environment and it teached the basic use of command-line tools, with an emphasis on how it can be utilized for the purposes of linguistics.
+
+The course was divided into 7 weeks (+ a final assignment) and each week had its own theme and assignments on the topic of the week.
+
+Below I have briefly described the main content of each week with some reflection on what I learned during each week.
 
 ### Week 1: Introduction to Command Line Environments
 
