@@ -18,7 +18,11 @@ My hobbies include:
 
 ## My cats
 
-<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="left"/> ### Musta Barbaari (The Black Barbarian in English)
+<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="left"/>
+
+**Musta Barbaari** (The Black Barbarian in English)
+
+Age: 8 years
 
 Nicknames:
   * Muba
@@ -27,11 +31,69 @@ Nicknames:
   * The Bestest Boy in The World
   * etc.
 
+Likes:
+  * Licking your hand when you pet him
+
+Dislikes:
+  * Loud noises
+
 <img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="40" width="60%" align="middle"/>
+
+**Seksi-Teppo** (Teppo of Sex in English)
+
+Age: 7 years
+
+Nicknames:
+  * Peppunen
+  * Chunky Booty
+  * Tepsutin
+  * Tepponaattori
+  * etc.
+
+Likes:
+  * Ham
+
+Dislikes:
+  * Not getting food 24/7
 
 <img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="40" width="60%" align="middle"/>
 
+*Professori Porkkana* (Professor Carrot in English)
+
+Age: 3 years
+
+Nicknames:
+  * El Stinko
+  * The Weasel
+  * Sir Stink-a-lot
+  * Ispettore Weaselmo
+  * etc.
+
+Likes:
+  * Being a little baby, sleeping next to you and getting attention
+
+Dislikes:
+  * The vacuum cleaner
+  * Not getting enough attention
+
 <img src="assets/images/iggy.jpg" alt="Igor" hspace="40" width="60%" align="middle"/>
+
+**Igor**
+
+Age: 3 years
+
+Nicknames:
+  * Iggy
+  * Iggy Pop
+  * The Notorious P.I.G.
+  * Piggy
+  * etc.
+
+Likes:
+  * Slapping you on the ankles when you least expect it
+
+Dislikes:
+  * Water
 
 ## Find me on
 
