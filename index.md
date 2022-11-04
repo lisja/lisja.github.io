@@ -18,9 +18,9 @@ My hobbies include:
 
 ## My cats
 
-<img style="float: left;" src="assets/images/muba.jpg" alt="Musta Barbaari" width="60%"/>
+<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="middle"/>
 
-**Musta Barbaari** (The Black Barbarian in English)
+**Musta Barbaari** (*The Black Barbarian* in English)
 
 Age: 8 years
 
@@ -39,7 +39,7 @@ Dislikes:
 
 <img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="40" width="60%" align="middle"/>
 
-**Seksi-Teppo** (Teppo of Sex in English)
+**Seksi-Teppo** (*Teppo of Sex* in English)
 
 Age: 7 years
 
@@ -58,7 +58,7 @@ Dislikes:
 
 <img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="40" width="60%" align="middle"/>
 
-**Professori Porkkana** (Professor Carrot in English)
+**Professori Porkkana** (*Professor Carrot* in English)
 
 Age: 3 years
 
