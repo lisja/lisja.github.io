@@ -8,7 +8,8 @@ I am Liisa Jalkanen and I study Computer Science and Linguistics at the Universi
 
 I am a Crazy Cat Lady with 4 rescue cats and you can see the pictures of my cats below in their own [section](#my-cats) with some basic info of them. 
 
-My hobbies include:
+##### My hobbies include:
+
   * Pole dancing
   * Drinking beer and tapping them on Untappd
   * Spending time with my cats
@@ -20,79 +21,79 @@ My hobbies include:
 
 <img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="middle"/>
 
-**Musta Barbaari** (*The Black Barbarian* in English)
+##### **Musta Barbaari** (*The Black Barbarian* in English)
 
-Age: 8 years
+**Age:** 8 years
 
-Nicknames:
+**Nicknames:**
   * Muba
   * Mubashir
   * Ninja of the Night
   * The Bestest Boy in The World
   * etc.
 
-Likes:
+**Likes:**
   * Licking your hand when you pet him
 
-Dislikes:
+**Dislikes:**
   * Loud noises
 
 <img src="assets/images/teppo.jpg" alt="Seksi-Teppo" hspace="40" width="60%" align="middle"/>
 
-**Seksi-Teppo** (*Teppo of Sex* in English)
+##### **Seksi-Teppo** (*Teppo of Sex* in English)
 
-Age: 7 years
+**Age:** 7 years
 
-Nicknames:
+**Nicknames:**
   * Peppunen
   * Chunky Booty
   * Tepsutin
   * Tepponaattori
   * etc.
 
-Likes:
+**Likes:**
   * Ham
 
-Dislikes:
+**Dislikes:**
   * Not getting food 24/7
 
 <img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="40" width="60%" align="middle"/>
 
-**Professori Porkkana** (*Professor Carrot* in English)
+##### **Professori Porkkana** (*Professor Carrot* in English)
 
-Age: 3 years
+**Age:** 3 years
 
-Nicknames:
+**Nicknames:**
   * El Stinko
   * The Weasel
   * Sir Stink-a-lot
   * Ispettore Weaselmo
   * etc.
 
-Likes:
+**Likes:**
   * Being a little baby, sleeping next to you and getting attention
 
-Dislikes:
+**Dislikes:**
   * The vacuum cleaner
   * Not getting enough attention
 
 <img src="assets/images/iggy.jpg" alt="Igor" hspace="40" width="60%" align="middle"/>
 
-**Igor**
+##### **Igor**
 
-Age: 3 years
+**Age:** 3 years
 
-Nicknames:
+**Nicknames:**
   * Iggy
   * Iggy Pop
   * The Notorious P.I.G.
   * Piggy
   * etc.
 
-Likes:
+**Likes:**
   * Slapping you on the ankles when you least expect it
 
-Dislikes:
+**Dislikes:**
   * Water
 
 ## Find me on
