@@ -18,7 +18,7 @@ My hobbies include:
 
 ## My cats
 
-<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="40" width="60%" align="left"/>
+<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="60" width="60%" align="left"/>
 
 **Musta Barbaari** (The Black Barbarian in English)
 
@@ -58,7 +58,7 @@ Dislikes:
 
 <img src="assets/images/porkkis.jpg" alt="Professori Porkkana" hspace="40" width="60%" align="middle"/>
 
-*Professori Porkkana* (Professor Carrot in English)
+**Professori Porkkana** (Professor Carrot in English)
 
 Age: 3 years
 
