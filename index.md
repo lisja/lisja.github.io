@@ -126,6 +126,8 @@ P.s. Please hesitate to contact me.
 
 ## Misc. 
 
+My [CV](https://www.overleaf.com/read/zcvctypgvswp) on Overleaf
+
 Funny Instagram Pages About Cats and Cat Memes:
 
 [ICanHasCheezburgerz](https://www.instagram.com/icanhascheezburgerz/)
