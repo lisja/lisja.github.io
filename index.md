@@ -18,7 +18,7 @@ My hobbies include:
 
 ## My cats
 
-<img src="assets/images/muba.jpg" alt="Musta Barbaari" hspace="60" width="60%" align="left"/>
+<img style="float: left;" src="assets/images/muba.jpg" alt="Musta Barbaari" width="60%"/>
 
 **Musta Barbaari** (The Black Barbarian in English)
 
