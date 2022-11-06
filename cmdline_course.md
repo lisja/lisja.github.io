@@ -76,7 +76,7 @@ One important thing we learned is that UNIX and DOS (Windows) text files are dif
 >
 > dos2unix mywindowsfile.txt
 
-> ##### **Command to convert a UNIX file into Windows file:***
+> ##### **Command to convert a UNIX file into Windows file:**
 >
 > unix2dos myunixfile.txt
 
@@ -105,12 +105,46 @@ This week we learned to transform the commands we learned from the previous 2 we
 
 ### Week 6: Installing and Running Programs
 
-jsjsjjs
+This week's theme was installing and running programs, software and Python packages. We learned to switch to the administrator user (**root user**) and also to use **sudo** for installing software which demands administrator-level privileges. We also used **pip** which is a standard package manager for Python and can be used to install and manage packages that aren’t part of the Python standard library. 
+
+The 2nd theme this week was **The Make Utility**. It is a command for building projects. It uses a file called **Makefile** to run and compile programs more efficiently. The **Makefile** defines the set of tasks to be executed.
+
+> ##### **An example of a Makefile:**
+>
+>```python
+> # Calling "make" will create empty text files
+>
+> generate:
+>   @echo "Creating empty text files..."
+>	        touch file-{1..10}.txt
+>
+> # Calling "make clean" will remove the created text files
+>
+> clean:
+>   @echo "Cleaning up..."
+>	        rm *.txt
+> ```
 
 ### Week 7: Version Control
 
-sksklaskala
+On the last week of the course the theme was **version control** which is an integral part of developing projects. Its idea is to allow you to make changes to the project without having to fear losing any previous progress but you can also "undo" some mistakes you might've made and go back to an earlier version of your project.
+
+We used the version control system **Git** in the **GitHub** platform.  We created a GitHub repository and learned how not to only create a project but to save its different stages to GitHub.
+
+>##### **How to send your changes to GitHub:**
+>
+>git add -A
+>
+>git commit -m "I made some changes"
+>
+>git push origin master
 
 ### Final Assignment: Building Webpages using GitHub Pages
 
-s,lsalalkalk 
+The course's **Final Assignment** was to build your own website and publishing it on **GitHub Pages**, continuing with the previous week's theme of working with GitHub. We used a tool called **Jekyll** that can be used to quickly view our own website on our local computer. It was a surprisingly useful tool because you could quickly check how the changes will look like without pushing them to GitHub first and then waiting for the changes to come into effect.
+
+>##### **The command to display your webpage using Jekyll:**
+>
+>bundle exec jekyll serve
+
+Building the website on **GitHub Pages** was a good exercise how to use **GitHub** since you became familiar with how the whole process works and committing and pushing things to GitHub became faster and faster with time.   
