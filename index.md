@@ -64,7 +64,7 @@ I am a Crazy Cat Lady with 4 rescue cats and you can see the pictures of my cats
 **Age:** 3 years
 
 **Nicknames:**
-  * El Stinko
+  * Porkkis
   * The Weasel
   * Sir Stink-a-lot
   * Ispettore Weaselmo
@@ -127,10 +127,10 @@ P.s. Please hesitate to contact me.
 
 ## Misc. 
 
-My [CV](https://www.overleaf.com/read/zcvctypgvswp) on Overleaf
+- My [CV](https://www.overleaf.com/read/zcvctypgvswp) on Overleaf
 
-Funny Instagram Pages About Cats and Cat Memes:
+- Funny Instagram Pages About Cats and Cat Memes:
 
-[ICanHasCheezburgerz](https://www.instagram.com/icanhascheezburgerz/)
+  * [ICanHasCheezburgerz](https://www.instagram.com/icanhascheezburgerz/)
 
-[cattosbeingcattos](https://www.instagram.com/cattosbeingcattos/)
+  * [cattosbeingcattos](https://www.instagram.com/cattosbeingcattos/)
